@@ -5,7 +5,7 @@
 ### The Infrastructure Standard for Verifiable Digital Economies
 
 [![Website](https://img.shields.io/badge/website-axkl.org-blue?style=flat-square)](https://axkl.org)
-[![Contact](https://img.shields.io/badge/contact-contact%40axkl.org-lightgrey?style=flat-square)](mailto:contact@axkl.org)
+[![Contact](https://img.shields.io/badge/contact-info%40afrikabal.org-lightgrey?style=flat-square)](mailto:info@afrikabal.org)
 
 </div>
 
@@ -130,7 +130,7 @@ AXK Infra Solutions is building trust infrastructure intended to serve nations, 
 
 If your work involves verifiable systems, trusted computation, institutional governance, or the architecture of emerging digital economies, you are in the right place.
 
-**[axkl.org](https://axkl.org)** | **[contact@axkl.org](mailto:contact@axkl.org)**
+**[axkl.org](https://axkl.org)** | **[info@axkl.org](mailto:info@axkl.org)**
 
 <br />
 
