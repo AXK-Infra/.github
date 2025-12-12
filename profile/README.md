@@ -1,10 +1,10 @@
 <div align="center">
 
-# AXK Infra Solutions
+# AXK Solutions
 
 ### The Infrastructure Standard for Verifiable Digital Economies
 
-[![Website](https://img.shields.io/badge/website-axkl.org-blue?style=flat-square)](https://axkl.org)
+[![Website](https://img.shields.io/badge/website-axk.org-blue?style=flat-square)](https://axk.org)
 [![Contact](https://img.shields.io/badge/contact-info%40afrikabal.org-lightgrey?style=flat-square)](mailto:info@afrikabal.org)
 
 </div>
@@ -13,7 +13,7 @@
 
 ## Our Role
 
-AXK Infra Solutions develops foundational systems that ensure transactions, data, and decisions across emerging and global markets can be independently verified and institutionally trusted. We focus on building the core trust fabric that allows governments, financial institutions, insurers, logistics networks, and cooperatives to operate on shared truth rather than fragmented assumptions.
+AXK develops foundational systems that ensure transactions, data, and decisions across emerging and global markets can be independently verified and institutionally trusted. We focus on building the core trust fabric that allows governments, financial institutions, insurers, logistics networks, and cooperatives to operate on shared truth rather than fragmented assumptions.
 
 We maintain the architectural principles, governance guidelines, and technical direction for the AXK trust stack. We define how the different layers of the ecosystem interact, how verifiable events are represented, and how digital trust is enforced across sectors.
 
@@ -109,7 +109,7 @@ Any automated decision that affects a human or institution must be understandabl
 
 ## What AXK Makes Possible
 
-AXK Infra Solutions enables the transition from fragmented data systems to fully verifiable digital economies.
+AXK Solutions enables the transition from fragmented data systems to fully verifiable digital economies.
 
 - Trusted trade and supply chains
 - Transparent settlement and liquidity cycles
@@ -126,11 +126,11 @@ AXK Infra Solutions enables the transition from fragmented data systems to fully
 
 ## For Institutions and Partners
 
-AXK Infra Solutions is building trust infrastructure intended to serve nations, financial systems, and critical industries. Our responsibility is to ensure that this infrastructure is reliable, auditable, and future-proof.
+AXK is building trust infrastructure intended to serve nations, financial systems, and critical industries. Our responsibility is to ensure that this infrastructure is reliable, auditable, and future-proof.
 
 If your work involves verifiable systems, trusted computation, institutional governance, or the architecture of emerging digital economies, you are in the right place.
 
-**[axkl.org](https://axkl.org)** | **[info@axkl.org](mailto:info@axkl.org)**
+**[axk.org](https://axk.org)** | **[info@axk.org](mailto:info@axk.org)**
 
 <br />
 
